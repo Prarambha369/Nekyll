@@ -1,5 +1,12 @@
-title: tonic-starter
-description: ""
+title: NEKYLL
+description: A modern and minimalistic static site generator inspired by the colors of Nepal.
 encoding: utf-8
 
-exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+exclude:
+  - README.md
+  - LICENSE
+  - "*.gem"
+  - "*.gemspec"
+  - "*.log"
+  - "*.tmp"
+  - Gemfile.lock
